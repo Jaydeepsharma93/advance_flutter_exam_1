@@ -24,8 +24,6 @@ class Movies {
       Website,
       Response;
 
-  // List<Rating>? Ratings = [];
-
   Movies({
     this.Title,
     this.Year,
@@ -51,7 +49,7 @@ class Movies {
     this.Language,
     this.Plot,
     this.Website,
-    // this.Ratings
+    this.Ratings
   });
 
   factory Movies.fromJson(Map json) {
@@ -80,17 +78,7 @@ class Movies {
       Website: json['Website'],
       Writer: json['Writer'],
       Year: json['Year'],
-      // Ratings: json['Ratings']
+
     );
   }
 }
-
-// class Rating {
-//   String? Source, Value;
-//
-//   Rating({this.Source, this.Value});
-//
-//   factory Rating.fromJson(Map json) {
-//     return Rating(Source: json['Source'], Value: json['Value']);
-//   }
-// }
