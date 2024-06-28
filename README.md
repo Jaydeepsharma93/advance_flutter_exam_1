@@ -1,16 +1,8 @@
 # advance_flutter_exam_1
 
-A new Flutter project.
+<img src="https://github.com/Jaydeepsharma93/advance_flutter_exam_1/assets/143181361/b15eba1b-0eab-4f4b-856b-3fedc29fac96" width = 32%>
+<img src="https://github.com/Jaydeepsharma93/advance_flutter_exam_1/assets/143181361/e77a3ae8-c0bf-41c3-8d4e-77918949235a" width = 32%>
+<img src="https://github.com/Jaydeepsharma93/advance_flutter_exam_1/assets/143181361/7acf597f-0ee5-4583-9983-adfdd4dbf3f4" width = 32%>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<video src="https://github.com/Jaydeepsharma93/advance_flutter_exam_1/assets/143181361/c0f5eea4-da13-4a70-a9a0-ee19fcf3275f" width = 32%>
