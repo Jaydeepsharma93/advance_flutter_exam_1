@@ -49,7 +49,6 @@ class Movies {
     this.Language,
     this.Plot,
     this.Website,
-    this.Ratings
   });
 
   factory Movies.fromJson(Map json) {
