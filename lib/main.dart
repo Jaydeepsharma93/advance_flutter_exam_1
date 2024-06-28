@@ -1,8 +1,12 @@
+import 'package:advance_flutter_exam_1/screen/controller/apiProvider.dart';
 import 'package:advance_flutter_exam_1/screen/view/SplashScreen/SplashScreen.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(MultiProvider(providers: [
+    ChangeNotifierProvider(create: (context) => ApiProvider(),)
+  ],child: MyApp(),));
 }
 
 class MyApp extends StatelessWidget {
